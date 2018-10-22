@@ -1,0 +1,10 @@
+{
+    "name": "gfx",
+    "references": [
+        "Game"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
